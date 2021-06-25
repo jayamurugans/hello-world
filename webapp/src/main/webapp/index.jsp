@@ -1,4 +1,4 @@
 <h1> Welcome to Dineshkumar  </h1>
-<h2> Dinesh is still Single </h2>
+<h2> DINESH IS STILL SINGLE </h2>
 
 
